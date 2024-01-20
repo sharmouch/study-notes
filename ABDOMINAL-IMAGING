@@ -1,8 +1,32 @@
-<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABDOMEN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Light Blue */
+            color: #000080; /* Navy Blue */
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #000080; /* Navy Blue */
+            color: #ffffff; /* White */
+        }
+        section {
+            margin-top: 20px;
+        }
+    </style>
+
+</head>
+    <body>
    <section>
-   <h2>Abdominal Imaging</h2>
-       <h3>Biliary Disease</h3>
-          <h4>Cholangiocarcinoma</h4>
+       <h2>Biliary Disease</h2>
+          <h3>Cholangiocarcinoma</h3>
            <p>Cholangiocarcinomas can present as mass-forming lesions with distinctive characteristics:</p>
                    <ul>
                        <li>Typically solitary but may be multifocal.</li>
